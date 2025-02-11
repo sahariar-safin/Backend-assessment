@@ -2,7 +2,6 @@
 node_modules/
 
 # Environment variables
-.env
 
 # Logs
 logs
@@ -20,3 +19,4 @@ coverage/
 .DS_Store 
 
 .PROJECTOVERVIEW
+config.bat
